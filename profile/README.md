@@ -37,13 +37,14 @@ We welcome contributions from the community! Whether you're fixing bugs, improvi
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with a clear description of your changes.
 
-For more details, check out our **[Contribution Guidelines](LINK_TO_GUIDELINES)**.
+For more details, check out our **[Contribution Guidelines](https://lotuschain.org/product)**.
 
 ---
 
 ## 📫 Contact Us
+- **LOTUS-HUB**: [BLUE LOTUS INNOVATION LAB](https://lotuschain.org)
 - **GitHub**: [Lotus-OS-Core](https://github.com/Lotus-OS-Core/)
-- **Email**: [contact@lotus-os-core.org](mailto:contact@lotuschain.org)
+- **Email**: [contact](mailto:contact@lotuschain.org)
 
 ---
 
