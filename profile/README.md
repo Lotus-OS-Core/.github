@@ -18,6 +18,8 @@ Lotus-OS-Core is an open-source organization focused on developing **secure, sca
 | **[secreg-cpp](https://github.com/Lotus-OS-Core/secreg-cpp)**         | **Secure Linux Registry System**: A centralized, secure configuration management solution for Linux, designed for the **LotusOS-Core** distribution.                                                      |
 | **[cpppm](https://github.com/Lotus-OS-Core/cpppm)**                   | **C++ Package Manager**: A high-performance, enterprise-grade C++ package manager optimized for managing **native Node.js modules** and **C++ dependencies** in large-scale applications.         |
 | **[LCpp-Framework](https://github.com/Lotus-OS-Core/LCpp-Framework)** | **LC++ Meta-Framework**: A structural C++ meta-framework that combines best practices from multiple programming paradigms, mimicking **Pascal's structured approach** and **Pythonic decorators**. |
+| **[medical_bridge-adapter_framework](https://github.com/Lotus-OS-Core/medical_bridge-adapter_framework)** | **Medical Bridge Adapter Framework**: A framework designed to facilitate seamless integration and interoperability between medical systems and applications. |
+
 
 ---
 
