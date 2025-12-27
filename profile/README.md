@@ -1,7 +1,5 @@
 # Lotus-OS-Core
 
-![Lotus-OS-Core Logo](https://avatars.githubusercontent.com/u/251720259?s=200&v=4)
-
 **Building the future of secure, high-performance Linux systems and C++ frameworks.**
 
 ---
@@ -56,4 +54,4 @@ For more details, check out our **[Contribution Guidelines](LINK_TO_GUIDELINES)*
 
 ---
 
-
+![Lotus-OS-Core Logo](https://avatars.githubusercontent.com/u/251720259?s=200&v=4)
