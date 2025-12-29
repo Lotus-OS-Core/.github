@@ -20,6 +20,7 @@ Lotus-OS-Core is an open-source organization focused on developing **secure, sca
 | **[LCpp-Framework](https://github.com/Lotus-OS-Core/LCpp-Framework)** | **LC++ Meta-Framework**: A structural C++ meta-framework that combines best practices from multiple programming paradigms, mimicking **Pascal's structured approach** and **Pythonic decorators**. |
 | **[medical_bridge-adapter_framework](https://github.com/Lotus-OS-Core/medical_bridge-adapter_framework)** | **Medical Bridge Adapter Framework**: A framework designed to facilitate seamless integration and interoperability between medical systems and applications. |
 | **[AGI - Automated Guest Isolation](https://github.com/Lotus-OS-Core/agi)** | **AGI - Automated Guest Isolation]**: A lightweight, secure chroot environment management tool built in pure C++. AGI enables developers and system administrators to create, manage, and isolate multiple sandboxed environments on Linux systems with minimal dependencies and maximum control. |
+|**[File Manager Lite](https://github.com/Lotus-OS-Core/file-manager-lite)** | **File Manager Lite**: A Light-weight Finder file manager for Linux, built with C++ and Qt5. |
 
 
 ---
