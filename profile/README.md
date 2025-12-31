@@ -31,6 +31,7 @@ Lotus-OS-Core is an open-source organization focused on developing **secure, sca
 |**[File Manager Lite](https://github.com/Lotus-OS-Core/file-manager-lite)** | **File Manager Lite**: A Light-weight Finder file manager for Linux, built with C++ and Qt5. |
 | **[VaultArchive (VARC)](https://github.com/Lotus-OS-Core/VaultArchive)** | **VaultArchive (VARC)**: is a secure file archiving utility that combines compression, encryption, and integrity verification in a single, easy-to-use package. It provides command-line interfaces, making it suitable for both power users and beginners. |
 | **[File Organizer (forg)](https://github.com/Lotus-OS-Core/file-organizer)** | **forg**: A command-line tool that organizes files in the current directory into categorized subfolders based on their file extensions. Written in C++ using only standard library components. |
+| **[li - Dir List Viewer](https://github.com/Lotus-OS-Core/list-viewer)** |  **Dir List Viewer**: The `li` is a powerful command-line utility that provides an enhanced replacement for the traditional `ls` command. Built with modern C++20 and `std::filesystem`, it offers beautiful colorized output, file type icons, multiple display modes, and extensive customization options without any external dependencies. |
 
 
 ---
