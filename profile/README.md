@@ -10,6 +10,14 @@ Lotus-OS-Core is an open-source organization focused on developing **secure, sca
 
 ---
 
+## 🛠 Technologies & Languages
+- **Main App**: LotusOS-Core `Medical-Science-Healthcare OS`
+- **Primary Language**: C++
+- **Focus Areas**: Linux Systems, Package Management, Meta-Frameworks, Security
+- **Tools & Frameworks**: C++, Node.js, TUI, Plugin Systems
+
+---
+
 ## 🌟 Featured Projects
 
 
@@ -23,14 +31,6 @@ Lotus-OS-Core is an open-source organization focused on developing **secure, sca
 |**[File Manager Lite](https://github.com/Lotus-OS-Core/file-manager-lite)** | **File Manager Lite**: A Light-weight Finder file manager for Linux, built with C++ and Qt5. |
 | **[VaultArchive (VARC)](https://github.com/Lotus-OS-Core/VaultArchive)** | **VaultArchive (VARC)**: is a secure file archiving utility that combines compression, encryption, and integrity verification in a single, easy-to-use package. It provides command-line interfaces, making it suitable for both power users and beginners. |
 
-
----
-
-## 🛠 Technologies & Languages
-- **Main App**: LotusOS-Core `Medical-Science-Healthcare OS`
-- **Primary Language**: C++
-- **Focus Areas**: Linux Systems, Package Management, Meta-Frameworks, Security
-- **Tools & Frameworks**: C++, Node.js, TUI, Plugin Systems
 
 ---
 
