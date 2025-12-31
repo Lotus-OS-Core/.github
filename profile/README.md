@@ -30,6 +30,7 @@ Lotus-OS-Core is an open-source organization focused on developing **secure, sca
 | **[AGI - Automated Guest Isolation](https://github.com/Lotus-OS-Core/agi)** | **AGI - Automated Guest Isolation]**: A lightweight, secure chroot environment management tool built in pure C++. AGI enables developers and system administrators to create, manage, and isolate multiple sandboxed environments on Linux systems with minimal dependencies and maximum control. |
 |**[File Manager Lite](https://github.com/Lotus-OS-Core/file-manager-lite)** | **File Manager Lite**: A Light-weight Finder file manager for Linux, built with C++ and Qt5. |
 | **[VaultArchive (VARC)](https://github.com/Lotus-OS-Core/VaultArchive)** | **VaultArchive (VARC)**: is a secure file archiving utility that combines compression, encryption, and integrity verification in a single, easy-to-use package. It provides command-line interfaces, making it suitable for both power users and beginners. |
+| **[File Organizer (forg)](https://github.com/Lotus-OS-Core/file-organizer)** | **forg**: A command-line tool that organizes files in the current directory into categorized subfolders based on their file extensions. Written in C++ using only standard library components. |
 
 
 ---
