@@ -62,4 +62,8 @@ For more details, check out our **[Contribution Guidelines](https://lotuschain.o
 
 ---
 
+**LotusOs-Core philosophy**: The freedom of mankind from oppression. We are not a cult. We are not leftist or rightist. We are free people who strive for freedom in {science} for the {advancement} of the human race. The concept of freedom is not political - it is the right of all human beings.
+
+---
+
 ![Lotus-OS-Core Logo](https://avatars.githubusercontent.com/u/251720259?s=200&v=4)
