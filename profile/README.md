@@ -21,6 +21,7 @@ Lotus-OS-Core is an open-source organization focused on developing **secure, sca
 | **[medical_bridge-adapter_framework](https://github.com/Lotus-OS-Core/medical_bridge-adapter_framework)** | **Medical Bridge Adapter Framework**: A framework designed to facilitate seamless integration and interoperability between medical systems and applications. |
 | **[AGI - Automated Guest Isolation](https://github.com/Lotus-OS-Core/agi)** | **AGI - Automated Guest Isolation]**: A lightweight, secure chroot environment management tool built in pure C++. AGI enables developers and system administrators to create, manage, and isolate multiple sandboxed environments on Linux systems with minimal dependencies and maximum control. |
 |**[File Manager Lite](https://github.com/Lotus-OS-Core/file-manager-lite)** | **File Manager Lite**: A Light-weight Finder file manager for Linux, built with C++ and Qt5. |
+| **[VaultArchive (VARC)](https://github.com/Lotus-OS-Core/VaultArchive)** | **VaultArchive (VARC)**: is a secure file archiving utility that combines compression, encryption, and integrity verification in a single, easy-to-use package. It provides command-line interfaces, making it suitable for both power users and beginners. |
 
 
 ---
